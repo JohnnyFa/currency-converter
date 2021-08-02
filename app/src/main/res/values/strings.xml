@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="check">MOEDAS PARA CONVERSÃO</string>
+    <string name="convert">CONVERTER MOEDAS</string>
+    <string name="convertin">CONVERTER</string>
+    <string name="origem">Digite a quantidade</string>
+    <string name="firstCoin">Origem</string>
+    <string name="secondCoin">Destino</string>
+
+    <string name="converter_result">Converta sua moeda</string>
+    <string name="pesquisar">Pesquise sua moeda</string>
+
+</resources>
