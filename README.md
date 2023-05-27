@@ -24,7 +24,7 @@ Currency Converter App is a user-friendly mobile application that enables users 
 
 To get started with the Currency Converter App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/johnnyfa/CurrencyConverterApp.git`
+1. Clone the repository: `git clone https://github.com/JohnnyFa/currency-converter.git`
 2. Open the project in Android Studio.
 3. Customize the UI and layout as per your preferences, ensuring a seamless user experience.
 4. Implement the logic to fetch currency data from the "http://api.currencylayer.com/" API and perform currency conversion calculations.
