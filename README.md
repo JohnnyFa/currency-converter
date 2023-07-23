@@ -7,7 +7,6 @@ Currency Converter App is a user-friendly mobile application that enables users 
 - 💱 Currency Listing: Display a comprehensive list of available coins for users to choose from.
 - 🔄 Currency Conversion: Allow users to select the source and target currencies and instantly convert between them.
 - 🌍 Real-time Exchange Rates: Fetch the latest currency exchange rates from the "http://api.currencylayer.com/" API.
-- 📈 Historical Data: Provide access to historical currency exchange rates for analysis or comparison.
 - 🌐 Multi-Currency Support: Support a wide range of currencies from around the world.
 - 💾 Local Storage: Cache currency exchange rates for offline access and improved performance.
 
